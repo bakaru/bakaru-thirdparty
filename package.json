@@ -1,0 +1,19 @@
+{
+  "name": "bakaru-thirdparty",
+  "version": "0.0.8",
+  "description": "Bakaru's thirdparty libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakaru/bakaru-thirdparty.git"
+  },
+  "author": "All Beautiful People Aroung The World",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakaru/bakaru-thirdparty/issues"
+  },
+  "homepage": "https://github.com/bakaru/bakaru-thirdparty#readme"
+}
